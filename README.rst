@@ -47,7 +47,7 @@ Themes
 Themes require additional metadata, which is stored in data/themes.py.
 
 
-Awards
+Awards of all time
 ------
 
 All awards are listed in data/awards.py.
